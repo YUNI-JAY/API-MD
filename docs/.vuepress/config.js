@@ -9,6 +9,7 @@ module.exports = {
       { rel: 'icon', href: '/logo.png' }
     ],
   ],
+  base:'/API-MD/',
   themeConfig: {
     logo: '/logo.png',  //网页顶端导航栏左上角的图标
 
